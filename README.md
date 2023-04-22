@@ -1,1 +1,2 @@
-# gopokedexcli
+# gopokedex command-line REPL
+I have built a Pokedex in a command-line REPL. We'll use the PokéAPI to get all of the data we'll need. A Pokedex is just a make-believe device that lets us look up information about Pokemon - things like their name, type, and stats.
